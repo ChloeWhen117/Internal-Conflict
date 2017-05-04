@@ -1,2 +1,2 @@
 # extra_firm
-#Personal coding contribution: Timer.cs, EndUI.cs, UIManagerScript.cs,
+#Personal coding contribution under Pseudonym of "James Nguyen": Timer.cs, EndUI.cs, UIManagerScript.cs,
