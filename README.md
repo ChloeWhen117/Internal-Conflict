@@ -1,4 +1,4 @@
-# extra_firm
+# Playable Demo
 For downloading the playable version of the game, see under 'Releases'
 
 # April 2015
