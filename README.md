@@ -1,7 +1,7 @@
 # extra_firm
 For downloading the playable version of the game, see under 'Releases'
 
-April 2015
+#April 2015
 
 Developed a strategy video game as a team project in Unity with 3 other members
 
